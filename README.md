@@ -1,2 +1,6 @@
 # hello-world
-Test repository
+
+John Jacobs JHSchmit!
+
+Here we go using Github for stuff and junk...
+
